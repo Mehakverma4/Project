@@ -1,0 +1,9 @@
+com\specs\specsbackend\dao\ProductRepository.class
+com\specs\specsbackend\dao\CategoryRepository.class
+com\specs\specsbackend\App.class
+com\specs\specsbackend\dao\ProductRepositoryImpl.class
+com\specs\specsbackend\model\Category.class
+com\specs\specsbacked\config\DBconfig.class
+com\specs\specsbackend\dao\CategoryRepositoryImpl.class
+com\specs\specsbackend\model\Product.class
+com\specs\specsbackend\model\UserDetails.class

@@ -1,0 +1,13 @@
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\App.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\model\Category.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbacked\config\DBconfig.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\dao\CategoryRepository.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\model\Authorization.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\dao\CustomerRepository.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\dao\CustomerRepositoryImpl.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\model\Product.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\model\UserDetails.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\model\Customer.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\dao\ProductRepository.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\dao\ProductRepositoryImpl.java
+E:\PROJUCTNIIT\SpecsBackend\src\main\java\com\specs\specsbackend\dao\CategoryRepositoryImpl.java
